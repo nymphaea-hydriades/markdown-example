@@ -1,6 +1,6 @@
 # markdown-example
 
-Here is a simple flow chart:
+Here is a sample flowchart of the process:
 
 ```mermaid
 flowchart TD;
